@@ -1,62 +1,43 @@
-<!-- README.md -->
+# 💼 My Modern Curriculum Vitae (CV) in JavaScript
 
-<h1 align="center">🌟 My Portfolio 🌟</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&width=435&lines=Hi+there!+I'm+Pranta+%F0%9F%91%8B;Welcome+to+my+portfolio+website+%F0%9F%8C%8F)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+I'm+Pranta+👋;Competitive+Programmer+💻;MERN+Developer+🌐;Problem+Solver+🚀;Welcome+to+My+Portfolio!" alt="Typing Animation" />
-</p>
+Welcome to my digital CV! 🚀
 
----
+## 🧰 Technologies & Tools
 
-## 📌 About This Repository  
-This is my **personal portfolio website** built with **React.js**, where I showcase:  
-- 🎯 My skills & expertise  
-- 🏆 Projects I have worked on  
-- 🌍 Social links and contact info  
-- 📬 Easy way to connect with me  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
----
+## 📸 Project Preview
 
-## 🚀 Live Demo  
-👉 [Click Here to View My Portfolio](https://pranta.live) *(replace with your deployed link)*  
+![Portfolio Demo](https://github.com/pranta2003/My_Portfolio/raw/main/public/preview.gif)
 
----
+## 📌 Features
 
-## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- **Responsive Design**: Optimized for all devices.
+- **Interactive UI**: Engaging user experience with smooth animations.
+- **Modern Tech Stack**: Built with React.js for scalability.
 
----
+## 🔗 Links
 
-## 🖼️ Preview  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranta2003/My_Portfolio/main/src/assets/images/dorkar.png" alt="Portfolio Preview" width="250px" style="border-radius:50%;border:3px solid #6366F1;" />
-</p>
+- [Live Demo](https://pranta2003.github.io/My_Portfolio/)
+- [GitHub Repository](https://github.com/pranta2003/My_Portfolio)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pranta2003/My_Portfolio/blob/main/LICENSE) file for details.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&theme=tokyonight" height="165"/>
-</p>
+## 🎨 Inspired By
 
----
+This README template draws inspiration from the [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) collection, which showcases creative and visually appealing GitHub profiles.
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://github.com/pranta2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pranta2003/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/pranta2003"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
----
-
-✨ Thanks for visiting my portfolio repo! ✨  
+Feel free to explore and customize this template to suit your personal style and preferences!
