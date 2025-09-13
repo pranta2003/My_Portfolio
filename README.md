@@ -1,43 +1,69 @@
-# 💼 My Modern Curriculum Vitae (CV) in JavaScript
+# 🌟 My Portfolio Website
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&width=435&lines=Hi+there!+I'm+Pranta+%F0%9F%91%8B;Welcome+to+my+portfolio+website+%F0%9F%8C%8F)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A8B8&width=435&lines=Hi+there!+I'm+Pranta+%F0%9F%91%8B;Welcome+to+my+interactive+portfolio+%F0%9F%8C%8F)
 
-Welcome to my digital CV! 🚀
-
-## 🧰 Technologies & Tools
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-## 📸 Project Preview
-
-![Portfolio Demo](https://github.com/pranta2003/My_Portfolio/raw/main/public/preview.gif)
-
-## 📌 Features
-
-- **Responsive Design**: Optimized for all devices.
-- **Interactive UI**: Engaging user experience with smooth animations.
-- **Modern Tech Stack**: Built with React.js for scalability.
-
-## 🔗 Links
-
-- [Live Demo](https://pranta2003.github.io/My_Portfolio/)
-- [GitHub Repository](https://github.com/pranta2003/My_Portfolio)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/pranta2003/My_Portfolio/blob/main/LICENSE) file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![Portfolio Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](#)
+[![Website](https://img.shields.io/badge/Website-Live-blue?style=flat-square)](https://pranta2003.github.io/My_Portfolio/)
+[![Visitors](https://komarev.com/ghpvc/?username=pranta2003&style=flat-square)](https://github.com/pranta2003/My_Portfolio)
 
 ---
 
-## 🎨 Inspired By
+## 🎬 Live Demo & GIF Preview
 
-This README template draws inspiration from the [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) collection, which showcases creative and visually appealing GitHub profiles.
+Check out the live portfolio: [Live Demo](https://pranta2003.github.io/My_Portfolio/)  
 
-Feel free to explore and customize this template to suit your personal style and preferences!
+![Portfolio Demo](https://github.com/pranta2003/My_Portfolio/raw/main/public/preview.gif)
+
+---
+
+## ⚡ Features
+
+- ✨ **Animated UI** – Smooth scrolling, typing animations, and transitions  
+- 📱 **Responsive Design** – Mobile, tablet, and desktop friendly  
+- 🛠 **Tech Showcase** – Highlights skills and technologies  
+- 💼 **Projects Section** – Showcasing projects with live links  
+- 📧 **Contact Form** – Lets visitors get in touch  
+- 🌐 **SEO Friendly** – Optimized for search engines  
+
+---
+
+## 🧰 Technology Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## 🖼 Screenshots
+
+### Home Section
+![Home Screenshot](https://github.com/pranta2003/My_Portfolio/raw/main/public/screenshots/home.png)
+
+### Projects Section
+![Projects Screenshot](https://github.com/pranta2003/My_Portfolio/raw/main/public/screenshots/projects.png)
+
+### Contact Section
+![Contact Screenshot](https://github.com/pranta2003/My_Portfolio/raw/main/public/screenshots/contact.png)
+
+---
+
+## 🚀 Installation
+
+Run this project locally:
+
+```bash
+#  Clone the repository
+git clone https://github.com/pranta2003/My_Portfolio.git
+
+# Navigate to project folder
+cd My_Portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
