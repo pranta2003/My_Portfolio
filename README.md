@@ -1,4 +1,4 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/pranta2003/developer-portfolio?color=blue)](https://github.com/pranta2003/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/pranta2003/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/pranta2003/developer-portfolio?color=blue)](https://github.com/pranta2003/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/pranta2003/developerFolio/stargazers) 
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
